@@ -1,7 +1,7 @@
 name: searchable_text
 description: A Flutter package that provides a widget for displaying text with highlighted search terms, enabling easy customization and highlighting within the text.
 version: 0.0.1
-homepage:
+homepage: https://microprogramers.org
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
