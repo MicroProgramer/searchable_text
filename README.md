@@ -25,7 +25,7 @@ Import the package into your Dart file:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:searchable_text/searchable_text.dart';
+import 'package:searchable_text/text.dart';
 ```
 
 Use the `SearchableText` widget within your widget tree:
