@@ -15,7 +15,7 @@ To use the **Searchable Text Widget** in your Flutter project, add it to your `p
 
 ```yaml
 dependencies:
-  searchable_text: ^1.0.0  # Replace with the latest version
+  searchable_text: ^0.0.2  # Replace with the latest version
 ```
 Then, run `flutter pub get` to fetch the package.
 
