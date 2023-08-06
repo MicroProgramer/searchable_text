@@ -15,7 +15,7 @@ To use the **Searchable Text Widget** in your Flutter project, add it to your `p
 
 ```yaml
 dependencies:
-  searchable_text: ^0.0.2  # Replace with the latest version
+  searchable_text: ^0.0.5  # Replace with the latest version
 ```
 Then, run `flutter pub get` to fetch the package.
 
@@ -71,7 +71,7 @@ class MySearchableTextScreen extends StatelessWidget {
   * `highlighterDecoration`: Decoration for the highlighted area.
 
 ## Demo
-<img src="res/demo.gif" alt="Demo" width="600"/>
+<img src="https://github.com/MicroProgramer/searchable_text/raw/main/res/demo.gif" alt="Demo" width="600"/>
 
 
 ## License
