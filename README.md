@@ -70,6 +70,10 @@ class MySearchableTextScreen extends StatelessWidget {
   * `highlightedTextStyle`: Style for highlighted text.
   * `highlighterDecoration`: Decoration for the highlighted area.
 
+## Demo
+<img src="res/demo.gif" alt="Demo" width="600"/>
+
+
 ## License
 This package is released under the [MIT License](https://opensource.org/licenses/MIT).
 
